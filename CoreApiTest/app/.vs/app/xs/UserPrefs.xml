@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C9B11B7F-4BF8-4300-8FB0-F35D86F95F31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.Release.json">
+    <Files>
+      <File FileName="appsettings.Release.json" Line="5" Column="172" />
+      <File FileName="Program.cs" Line="30" Column="44" />
+      <File FileName="Controllers/PersonController.cs" Line="11" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="app" expanded="True">
+            <Node name="app" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dal" expanded="True" />
+              <Node name="appsettings.Release.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

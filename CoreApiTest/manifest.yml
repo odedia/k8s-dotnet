@@ -1,0 +1,7 @@
+---
+applications:
+- name: CoreApiTest
+  memory: 1024m
+  buildpack: https://github.com/cloudfoundry/dotnet-core-buildpack.git
+  env:
+    ControllerSettings__DbConfig__DbConnectionString: mongodb+srv://odedia:O4JLBjqF5CR0f@cluster0-lozjx.gcp.mongodb.net/sampledb

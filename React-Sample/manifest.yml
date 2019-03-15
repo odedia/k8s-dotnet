@@ -1,0 +1,6 @@
+---
+applications:
+- name: ReactSample
+  memory: 256m
+  env:
+    REACT_APP_API_URL: http://coreapitest.apps.pas.pvtl.eu
